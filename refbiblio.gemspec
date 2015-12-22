@@ -10,11 +10,11 @@ Gem::Specification.new do |spec|
   spec.email         = ["alu0100505078@ull.edu.es"]
 
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
+    spec.metadata['allowed_push_host'] = ""
   end
 
-  spec.summary       = %q{"Referencia bibliografica"}
-  spec.description   = %q{"Referencia bibliografica usando lista doblemente enlazada"}
+  spec.summary       = %q{""}
+  spec.description   = %q{""}
   spec.homepage      = ""
   spec.license       = "MIT"
 
