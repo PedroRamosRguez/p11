@@ -13,8 +13,8 @@ Gem::Specification.new do |spec|
     spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
   end
 
-  spec.summary       = %q{"Referencia bibliografica"}
-  spec.description   = %q{"Referencia bibliografica usando lista doblemente enlazada"}
+  spec.summary       = ["Referencia bibliografica"]
+  spec.description   = ["Referencia bibliografica usando lista doblemente enlazada"]
   spec.homepage      = ""
   spec.license       = "MIT"
 
